@@ -1,0 +1,79 @@
+@charset "UTF-8";
+*{margin: 0;}
+
+#main_box{
+	width: 500px;
+	margin: auto;
+	/* background: #cccccc; */
+}
+
+#main_box > h1{
+	text-align: center;
+	color: #eeeeee;
+	text-shadow: 1px 1px 1px black;
+	font-weight: bold;
+	font-size: 30px;
+	margin: 30px;
+}
+
+#empty_message{
+	text-align: center;
+	color: #ff80c0;
+	text-shadow: 1px 1px 1px black;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.content_box{
+	border: 1px solid blue;
+	margin: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+
+.content{
+	min-height: 80px;
+	height: auto;
+	background: #fadcf2;
+	padding : 10px;
+}
+
+.name{
+	color: #ddbbff;
+	
+}
+
+.regdate{
+	color: #c5f2f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
